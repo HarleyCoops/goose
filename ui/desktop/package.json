@@ -27,7 +27,7 @@
     "@electron-forge/maker-zip": "^7.5.0",
     "@electron-forge/plugin-auto-unpack-natives": "^7.5.0",
     "@electron-forge/plugin-fuses": "^7.5.0",
-    "@electron-forge/plugin-vite": "^7.5.0",
+    "@electron-forge/plugin-vite": "^7.11.2",
     "@electron/fuses": "^1.8.0",
     "@eslint/js": "^8.56.0",
     "@tailwindcss/typography": "^0.5.15",
@@ -36,7 +36,7 @@
     "@types/express": "^5.0.0",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
-    "@vitejs/plugin-react": "^4.3.3",
+    "@vitejs/plugin-react": "^6.0.2",
     "autoprefixer": "^10.4.20",
     "electron": "39.8.5",
     "eslint": "^8.56.0",
@@ -47,7 +47,7 @@
     "postcss": "^8.5.14",
     "prettier": "^3.4.2",
     "tailwindcss": "^3.4.14",
-    "vite": "^8.0.12"
+    "vite": "^8.0.16"
   },
   "keywords": [],
   "license": "Apache-2.0",
